@@ -1,4 +1,4 @@
-# 100-days-of-Python-projects
+# Python-project- Band name generator
 Day 1 Python Project: Band name generator
 
 ### Output
